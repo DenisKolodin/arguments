@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Parser","A parser for command-line arguments."]]});
